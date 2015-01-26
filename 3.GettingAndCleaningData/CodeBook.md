@@ -16,17 +16,18 @@ The run_analysis.R has a function that does not require any parameters run_analy
 
 Internally, the function will obtain the following labels from the activity_labels.txt:
 	
-  walking
-	
-  walkingupstairs
-  
-	walkingdownstairs
+•	walking
 
-	sitting
-	
-  standing
+•	walkingupstairs
 
-	laying
+•	walkingdownstairs
+
+•	sitting
+
+•	standing
+
+•	laying
+
 
 Then the function will clean and merge the data into a file named Clean_Data.txt that has the follolwing column headers:
 •	subject
