@@ -15,23 +15,38 @@ The run_analysis.R has a function that does not require any parameters run_analy
 6.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Internally, the function will obtain the following labels from the activity_labels.txt:
-	walking
-	walkingupstairs
+	
+  walking
+	
+  walkingupstairs
+  
 	walkingdownstairs
+
 	sitting
-	standing
+	
+  standing
+
 	laying
 
 Then the function will clean and merge the data into a file named Clean_Data.txt that has the follolwing column headers:
 •	subject
+
 •	activity
+
 •	tbodyacc-mean-x 
+
 •	tbodyacc-mean-y 
+
 •	tbodyacc-mean-z 
+
 •	tbodyacc-std-x 
+
 •	tbodyacc-std-y 
+
 •	tbodyacc-std-z 
+
 •	tgravityacc-mean-x 
+
 •	tgravityacc-mean-y
 
 The final step to get the averages and store them in the result file TidyDataSet.txt that has the same column headers.
