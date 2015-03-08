@@ -1,7 +1,7 @@
 ## Exploratory Data Analysis
 ### Course Projects
 
-This is repository contains the code, plots' and data for "Exploratory Data Analysis" Coursera Course.
+This repository contains the code, plots and data for the "Exploratory Data Analysis" Coursera Course.
 
 To run the code for Project 1:
 1. Download the Project1 folder as is to a folder of your choice on the your computer
