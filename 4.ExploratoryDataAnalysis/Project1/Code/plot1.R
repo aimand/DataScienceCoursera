@@ -1,5 +1,4 @@
 plot1 <- function() { 
-
 	## Read text file
 	hpc <- read.csv("../Data/household_power_consumption.txt", header=T, sep=';', na.strings="?", 
                       nrows=2075259, check.names=F, stringsAsFactors=F, comment.char="", quote='\"')
