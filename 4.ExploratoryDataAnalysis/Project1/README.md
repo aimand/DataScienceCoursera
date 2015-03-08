@@ -1,6 +1,6 @@
 ### Project 1
 
-This is repository contains the code, plots' and data for project 1 in Week 1 of the "Exploratory Data Analysis" Course.
+This is repository contains the code, plots, and data for project 1 on Week 1 of the "Exploratory Data Analysis" Course.
 
 To run the code for Project 1:
 	1. Download the Project1 folder as is to a folder of your choice on the your computer
